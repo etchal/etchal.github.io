@@ -1,0 +1,9 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64">
+	<title>icons8-web-design-64</title>
+	<defs>
+		<image  width="54" height="42" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADYAAAAqCAMAAADPj1gPAAAAAXNSR0IB2cksfwAAAGNQTFRFAAAAaf/tZvzxZvvxZvzxZvzwaP/xZvvxZfvxZvzxZfvxZvzwZ//1ZP/sZvzwZfrxZvryZfzxZPryZvvxZfvwZfzwZfzxZvzwZvvxZfvxZfzwZfvxZvvxZfzwZvvwZfzxZfvwdZrEfAAAACF0Uk5TAB2s8v+vJ+3uqvG0Gxy2Ojy3PZPprc7I45lq34TEn7qPi5WW8gAAAJxJREFUeJzV0NsKwjAQBNBJu1prTa33++X/v9JGyYJBzC6CdOdhYB8OJAO4oiRVytEYcJUOhUwcCr0iqqF84StThG5mvo1Nc3xPF8ST+f6LsSmjgF9Z690iNnUZtWSmjx2WHe/zknbY+5ftsBXfaw3b8L3VsB3fjYbt+T4Md8m/siMlOYnYOWUXEbumrBaxW8ruA1xSxMSxxfQxwR4vrxYWOmDrEgAAAABJRU5ErkJggg=="/>
+	</defs>
+	<style>
+	</style>
+	<use id="Background" href="#img1" x="5" y="11"/>
+</svg>
